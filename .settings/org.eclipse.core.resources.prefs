@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebRoot/index.jsp=UTF-8
+encoding//src/org/com/huang/entity/SNSUserInfo.java=UTF-8
+encoding//src/org/com/huang/response/WX_Out_text.java=UTF-8
+encoding//src/org/com/huang/util/WX_Util.java=UTF-8
+encoding//src/org/com/huang/wechat/WX_Interface.java=UTF-8
+encoding//src/org/com/huang/wechat/wechat.java=UTF-8
+encoding/<project>=UTF-8
