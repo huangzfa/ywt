@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 public class DB_Util {
 	private static Connection conn = null;
-	private static   Statement stmt = null;
+	private static   Statement stmt  = null;
 	private static   ResultSet  rs = null;
 	
 	public   Connection getConnection() {
